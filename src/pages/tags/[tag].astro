@@ -5,15 +5,15 @@ export async function getStaticPaths() {
   const allPosts = Object.values(import.meta.glob('../posts/*.md', { eager: true }));
 
   return [
-    {params: {tag: "dog"}, props: {posts: allPosts}},
-        {params: {tag: "dogs"}, props: {posts: allPosts}},
-    {params: {tag: "cat"}, props: {posts: allPosts}},
-    {params: {tag: "cats"}, props: {posts: allPosts}},
-    {params: {tag: "strong"}, props: {posts: allPosts}},
-    {params: {tag: "nature"}, props: {posts: allPosts}},
-    {params: {tag: "loving"}, props: {posts: allPosts}},
-        {params: {tag: "both"}, props: {posts: allPosts}},
-            {params: {tag: "cute"}, props: {posts: allPosts}},
+    {params: {tag: "AI"}, props: {posts: allPosts}},
+        {params: {tag: "learning"}, props: {posts: allPosts}},
+    {params: {tag: "reasoning"}, props: {posts: allPosts}},
+    {params: {tag: "brain"}, props: {posts: allPosts}},
+    {params: {tag: "intelligence"}, props: {posts: allPosts}},
+    {params: {tag: "human"}, props: {posts: allPosts}},
+    {params: {tag: "behavior"}, props: {posts: allPosts}},
+        {params: {tag: "views"}, props: {posts: allPosts}},
+            {params: {tag: "twisting"}, props: {posts: allPosts}},
   ];
 }
 

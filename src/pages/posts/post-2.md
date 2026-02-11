@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: My Second Blog Post
+title: What is Intelligence?
 author: Ruby Lucas
-description: "This is one of the most popular dogs to own in the USA."
+description: "Some of the simplest human behaviors are known to add to intelligence, or hinder it. There are many different forms of learning that are also known to be either successful or a hindrance. "
 image:
-  url: "https://static.vecteezy.com/system/resources/thumbnails/008/951/892/small/cute-puppy-pomeranian-mixed-breed-pekingese-dog-run-on-the-grass-with-happiness-photo.jpg"
-  alt: "Cute puppy running through grass"
+  url: "https://www.eschoolnews.com/files/2024/02/generative-AI-gen-AI-cosn.jpeg"
+  alt: "human brain with technology symbols"
 pubDate: 02-09-2026
-tags: ["dog", "dogs", "nature", "cute"]
+tags: ["brain", "intelligence", "human", "behavior"]
 ---
