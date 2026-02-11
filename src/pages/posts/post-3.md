@@ -1,13 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
-author: Astro Learner
-description: "I had some challenges, but asking in the community really helped!"
+author: Ruby Lucas
+description: "Many cats get along well with dogs, depending on their size."
 image:
-  url: "https://docs.astro.build/assets/rays.webp"
-  alt: "The Astro logo on a dark background with rainbow rays."
-pubDate: 2022-07-15
-tags: ["astro", "learning in public", "setbacks", "community"]
+  url: "https://www.americanhumane.org/wp-content/uploads/2024/11/shutterstock_162633491-1024x682.jpg"
+  alt: "A cute dog and cat rolled on the grass together"
+pubDate: 02-09-2026
+tags: ["dog", "cat", "both", "loving"]
 ---
-
-It wasn't always smooth sailing, but I'm enjoying building with Astro. And, the [Discord community](https://astro.build/chat) is really friendly and helpful!

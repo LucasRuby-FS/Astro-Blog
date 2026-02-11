@@ -1,13 +1,4 @@
 /* nav styles */
-.menu {
-  background-color: #0d0950;
-  border: none;
-  color: #fff;
-  font-size: 1.2rem;
-  font-weight: bold;
-  padding: 5px 10px;
-}
-
 .nav-links {
   width: 100%;
   display: none;
@@ -19,15 +10,15 @@
   text-align: center;
   padding: 10px 0;
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: medium;
   font-weight: bold;
   text-transform: uppercase;
-  color: #0d0950;
+  color: #1a4b22;
 }
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #ff9776;
+  background-color: #76ff8d;
 }
 
 :has(.menu[aria-expanded="true"]) .nav-links {
@@ -47,8 +38,22 @@
     display: inline-block;
     padding: 15px 20px;
   }
-
-  .menu {
-    display: none;
-  }
+}
+h1 {
+  color: rgb(38, 80, 66);
+  text-align: center;
+  font-size: large;
+}
+p {
+  color: rgb(52, 69, 63);
+  text-align: center;
+}
+body {
+  background-color: rgb(194, 255, 194);
+}
+h2 {
+  text-align: center;
+  color: rgb(52, 69, 63);
+  font-weight: normal;
+  font-size: large;
 }

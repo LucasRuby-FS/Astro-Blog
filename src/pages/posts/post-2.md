@@ -1,13 +1,11 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: My Second Blog Post
-author: Astro Learner
-description: "After learning some Astro, I couldn't stop!"
+author: Ruby Lucas
+description: "This is one of the most popular dogs to own in the USA."
 image:
-  url: "https://docs.astro.build/assets/arc.webp"
-  alt: "The Astro logo on a dark background with a purple gradient arc."
-pubDate: 2022-07-08
-tags: ["astro", "blogging", "learning in public", "successes"]
+  url: "https://static.vecteezy.com/system/resources/thumbnails/008/951/892/small/cute-puppy-pomeranian-mixed-breed-pekingese-dog-run-on-the-grass-with-happiness-photo.jpg"
+  alt: "Cute puppy running through grass"
+pubDate: 02-09-2026
+tags: ["dog", "dogs", "nature", "cute"]
 ---
-
-After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
